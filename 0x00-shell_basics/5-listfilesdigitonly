@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la [:12345:]-*
+ls -la
