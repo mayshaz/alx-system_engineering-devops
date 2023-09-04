@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la | cut -c 27- | sort | tail -10
